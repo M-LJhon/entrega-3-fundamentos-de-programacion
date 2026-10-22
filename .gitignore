@@ -35,3 +35,6 @@ Thumbs.db
 
 # Archivos de calculo de Libre Office.
 *.ods
+
+# Archivos Word de Office.
+*.docx
